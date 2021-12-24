@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+
+}
+
+.body{
+  width: 960px;
+  margin: 0 auto;
+}
+
+.img{
+display:inline-block;
+vertical-align:top;
+
+}
+.container{
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+  vertical-align:top;
+}

@@ -1,0 +1,74 @@
+*{
+  box-sizing: border-box;
+  margin: auto;
+ 
+}
+
+
+
+.block{background-color:black;
+width: 50px;
+height: 2040px;
+float: left;
+
+}
+.figure{ background-color: gray;
+  width: 400px;
+  height: 2040px;
+  margin-left: -10px;
+  float: left;
+}
+
+.img{ margin-left: 90px;
+  margin-top: 20px;
+}
+.main{width: 1450px;
+  height: 2000px;
+  display: inline-block;
+  background-color: mintcream;
+  
+}
+.font{ font-size: 25px;
+  margin-top: 20px;
+}
+.font2{font-size: 18px;
+}
+.font3{font-size: 40px;
+}
+.fontsize{font-size: 30px;}
+.text{ margin-left: 60px;
+  margin-top: 50px;
+  margin-right: 30px;
+  
+  
+}
+.margin{ margin-top: 100px;
+  font-size: 20px;
+}
+.margin2{margin-left: 50px;
+}
+.margin3{margin-left: 130px;
+  margin-top: -23px;
+  font-size: 20px;
+}
+.margintext{
+  margin-top: 20px;
+  font-size: 20px;
+}
+.marginlast{
+  margin-left: 330px;
+  margin-top: -23px;
+  font-size: 20px;
+
+}
+.decoration{
+  text-decoration: underline;
+}
+.profile{margin-top: 100px ;}
+.button{
+  margin-top: 90px;
+}
+
+
+
+
